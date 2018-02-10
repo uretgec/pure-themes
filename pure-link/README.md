@@ -5,10 +5,10 @@ Simple HTML Based Link Theme.
 
 # Screenshot
 
-![Home Screen](https://github.com/uretgec/pure-themes/raw/screenshot/screen_home.JPG)
-![Single Screen](https://github.com/uretgec/pure-themes/raw/screenshot/screen_single.JPG)
-![Form Screen](https://github.com/uretgec/pure-themes/raw/screenshot/screen_form.JPG)
-![Comment Screen](https://github.com/uretgec/pure-themes/raw/screenshot/screen_comment.JPG)
+![Home Screen](https://github.com/uretgec/pure-themes/raw/screenshot/pure-link/screen_home.JPG)
+![Single Screen](https://github.com/uretgec/pure-themes/raw/screenshot/pure-link/screen_single.JPG)
+![Form Screen](https://github.com/uretgec/pure-themes/raw/screenshot/pure-link/screen_form.JPG)
+![Comment Screen](https://github.com/uretgec/pure-themes/raw/screenshot/pure-link/screen_comment.JPG)
 
 # Pages
 
