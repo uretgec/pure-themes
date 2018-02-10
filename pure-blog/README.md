@@ -5,9 +5,9 @@ Simple HTML Based Blog Theme.
 
 # Screenshot
 
-![Home Screen](https://github.com/uretgec/pure-blog/raw/screenshot/screen_home.JPG)
-![Single Screen](https://github.com/uretgec/pure-blog/raw/screenshot/screen_single.JPG)
-![Form Screen](https://github.com/uretgec/pure-blog/raw/screenshot/screen_form.JPG)
+![Home Screen](https://github.com/uretgec/pure-themes/raw/screenshot/screen_home.JPG)
+![Single Screen](https://github.com/uretgec/pure-themes/raw/screenshot/screen_single.JPG)
+![Form Screen](https://github.com/uretgec/pure-themes/raw/screenshot/screen_form.JPG)
 
 # Pages
 
